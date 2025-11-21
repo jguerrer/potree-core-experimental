@@ -1,7 +1,7 @@
 # Potree Core 2.1
 
 
-Project based on Potree Core and come updates made during potree developement including:
+Project based on Potree Core and some updates made during potree developement including:
 
 ThreeJS webGL modernization to webgl2
 Probable WebGPU modernization in the roadmap.
@@ -29,23 +29,7 @@ Tween reintegration
 
 Vector rendering and custom materials for line and polygon rendering for gis vector visualization.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.
-
+Is expected to use only newer pointcloud reader versions based on single file format.
 
 
 

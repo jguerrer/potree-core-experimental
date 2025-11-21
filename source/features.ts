@@ -24,7 +24,7 @@ function renderer() {
 
 	// create a new context
 	const canvas = document.createElement('canvas');
-	context = canvas.getContext('webgl');
+	context = canvas.getContext('webgl2');//requires modern threejs version
 	return context;
 }
 
