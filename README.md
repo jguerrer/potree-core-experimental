@@ -6,7 +6,13 @@ Project based on Potree Core and some updates made during potree developement in
 ThreeJS webGL modernization to webgl2
 Probable WebGPU modernization in the roadmap.
 
-Addition of InputHandler
+Project info storage and layers metadata
+   
+
+Addition of InputHandler or some other stuff.
+
+
+
 Classification and Clipping
 Geospatial and Globe compatibility
 Addition of extra rendereables and custom graphical objects.
