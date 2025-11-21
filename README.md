@@ -1,4 +1,54 @@
-# Potree Core 2.0
+# Potree Core 2.1
+
+
+Project based on Potree Core and come updates made during potree developement including:
+
+ThreeJS webGL modernization to webgl2
+Probable WebGPU modernization in the roadmap.
+
+Addition of InputHandler
+Classification and Clipping
+Geospatial and Globe compatibility
+Addition of extra rendereables and custom graphical objects.
+
+Attention for single page applications, providing proper cleanup and reinitialization.
+An API for interacting and scripting, including:
+   Pointcloud custom styling based on attribute values and gradients.
+   Custom navigatiopn tools
+   Raycasting tools and util functions.
+   Query tools based on raycasting and other tools.   
+
+Custom controllers.
+
+
+Measurement Tools
+
+Annotations
+Profiles
+Tween reintegration
+
+Vector rendering and custom materials for line and polygon rendering for gis vector visualization.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
 
 [![npm version](https://badge.fury.io/js/potree-core.svg)](https://badge.fury.io/js/potree-core)
 [![GitHub version](https://badge.fury.io/gh/tentone%2Fpotree-core.svg)](https://badge.fury.io/gh/tentone%2Fpotree-core)
